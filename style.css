@@ -1,0 +1,36 @@
+h1{
+	color:red;
+	background-color: green;
+	width: 50%;	
+}
+.oddp{
+	color:red;
+}
+.evenh1{
+	color: red;
+}
+.evenp{
+	color: blue;
+}
+
+#mid{
+	background-color:yellow;
+}
+p{
+	font-size:4em;
+	width :50vw;
+
+}
+
+div{
+	background-color: green;
+	width :50%;
+}
+
+img{
+	width: 500px;
+	height: 300px;
+	border: 5px solid green;
+	cursor: pointer;
+	box-shadow: 10px 5px 20px 10px blue  ;
+}
