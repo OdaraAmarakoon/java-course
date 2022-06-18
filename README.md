@@ -1,3 +1,3 @@
 # Introduction to Java
 # Java programming
-# Oop concept
+# Object Oriented programming
